@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Github\Titanic-Survival-Prediction\iris\venv"
+VIRTUAL_ENV="D:\Github\Iris-Prediction--Django\iris\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
